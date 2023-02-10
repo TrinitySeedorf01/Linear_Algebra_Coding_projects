@@ -1,6 +1,6 @@
-This repository contains projects for use in Math 242 Linear Algebra. It is used with Google Colaboratory, and it is intended to help students learn how to do linear algebra using code.
-
 # Linear_Algebra_Coding_projects
+
+This repository contains projects for use in Math 242 Linear Algebra. It is used with Google Colaboratory, and it is intended to help students learn how to do linear algebra using code.
 
 # This is a section
 
