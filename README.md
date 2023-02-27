@@ -9,3 +9,9 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32c
 
 2:  Project 2: Predicted the Number of Skiers on Ski Slopes Using Markov Chains and Transition Matricies
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32cad2cf1ab249a8f13382fccd0af1d4965/Trinity_Seedorf_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3: Take-Home Exam 1:
+
+
+
+4: Project 3: Finding Secret Numbers
