@@ -13,7 +13,7 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32c
 3: Take-Home Exam 1:
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/TakeHome_Exam_1.ipynb
 or
-
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/TakeHome_Exam_1_final_copy.ipynb
 
 4: Project 3: Finding Secret Numbers
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Math_242_secret_number.ipynb
