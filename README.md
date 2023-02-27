@@ -15,3 +15,4 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32c
 
 
 4: Project 3: Finding Secret Numbers
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Math_242_secret_number.ipynb
