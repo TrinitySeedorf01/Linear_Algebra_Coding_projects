@@ -11,7 +11,8 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32c
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/7c09d32cad2cf1ab249a8f13382fccd0af1d4965/Trinity_Seedorf_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
 3: Take-Home Exam 1:
-
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/TakeHome_Exam_1.ipynb
+or
 
 
 4: Project 3: Finding Secret Numbers
