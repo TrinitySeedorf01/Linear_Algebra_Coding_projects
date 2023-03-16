@@ -17,3 +17,6 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Tak
 
 4: Project 3: Finding Secret Numbers
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Math_242_secret_number.ipynb
+
+5: Project 4: Sports Teams Rankings
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Sports_Teams_Rankings.ipynb
