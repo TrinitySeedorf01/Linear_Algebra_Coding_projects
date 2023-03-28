@@ -21,5 +21,11 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Mat
 5: Project 4: Sports Teams Rankings
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Sports_Teams_Rankings.ipynb
 
-6: Project 5: Gram-Scjmidt Orthonormalization Process
+6: Project 5: Gram-Schmidt Orthonormalization Process
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gram_Schmidt_Orthonormalization_Process.ipynb
+
+7: Project 6: Gram-Schmidt Orthonormalization Process with Polynomials
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gram_Schmidt_Process_with_Polynomial_Function_Spaces.ipynb
+
+8: Project 7: Gram-Schmidt Orthonormalization Process with Periodic Functions
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
