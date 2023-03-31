@@ -29,3 +29,6 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gra
 
 8: Project 7: Gram-Schmidt Orthonormalization Process with Periodic Functions
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
+
+9: Take-Home Exam 2
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Take_Home_Exam_2.ipynb
