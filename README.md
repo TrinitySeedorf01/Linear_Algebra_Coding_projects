@@ -32,3 +32,6 @@ https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Gra
 
 9: Take-Home Exam 2
 https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Take_Home_Exam_2.ipynb
+
+10: Project 8: Explore Impact of Eigenvalues for Non-Square Matrices
+https://github.com/TrinitySeedorf01/Linear_Algebra_Coding_projects/blob/main/Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb
